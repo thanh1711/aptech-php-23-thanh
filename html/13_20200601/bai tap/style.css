@@ -1,0 +1,94 @@
+h1{
+    color: green;
+margin-top: 20px;
+}
+.cha{
+    border: 1px solid gray;
+    height: 500px;
+}
+ul>li{
+ list-style: none;
+ text-decoration: none;
+ margin-top: 20px;
+ 
+ 
+}
+
+
+h4{
+    color: black;
+}
+
+
+.square{
+    height: 100px;
+    width: 100%;
+    border-bottom : 1px solid gray;
+    display: flex;
+    
+}
+.square1{
+    height: 600px;
+    border:1px solid gray;
+    border-radius: 10px;
+}
+.hai{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.ba{
+    margin-top: 35px;
+
+}
+.cung{
+    display: flex;
+    color: gray;
+}
+.vien{
+    color: white ;
+    background-color: green;
+    margin-left: 100px;
+    
+}
+.square2{
+    height: 150px;
+    width: 100%;
+    border: 1px solid gray;
+     
+}
+.square3{
+    height: 80px;
+    width: 100%;
+    border: 1px solid gray;
+    background-color: gray;
+}
+.bon{
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 150%;
+}
+.square3>p{
+    margin-top: 30px;
+    margin-left: 30px;
+    font-size: larger;
+    
+}
+.hot{
+    background-color: red;
+    color: white ;
+    margin-left: 100px;
+    border-radius: 5px;
+}
+.xam{
+    color: gray;
+    font-size: 150%;
+}
+.col-3>h5{
+    font-size: 150%;
+}
+
+
+    
+
+
+    

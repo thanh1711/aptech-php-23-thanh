@@ -1,0 +1,44 @@
+.container1{
+    background-color: gray;
+    height: 100px;
+}
+
+h2{
+    margin-top: 20px ;
+}
+.container{
+    margin-top: 50px;
+}
+.chu{
+    display: flex;
+
+    margin-left: 140px;
+}
+.button1{
+    background-color: blue;
+    border-radius: 15%;
+    color: white;
+    font-size: 20px;
+
+
+}
+.button2{
+    background-color: gray;
+border-radius: 15%;
+color: white;
+font-size: 20px;
+}
+.square{
+    height: 200px;
+    width:300px ;
+    background-color: gray;
+}
+.square1{
+    height: 150px;
+    width:300px ;
+    background-color: white;
+    border: 0.5px solid gray;
+    
+
+    
+}

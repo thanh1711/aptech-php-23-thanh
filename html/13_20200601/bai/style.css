@@ -1,0 +1,44 @@
+.cha{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.toi{
+    color: gray;
+}
+.tran{
+    height: 50px;
+    width: 80%;
+    background-color: orange;
+    border-radius: 10px;
+    margin-left: 10%;
+}
+.xam{
+    color: gray;
+}
+
+   
+h6{
+    margin-left: 35px;
+}
+ul>li{
+    list-style: none;
+}
+.bo{
+    border : 1px solid gray;
+
+}
+h3{
+    margin-left: 10px;
+}
+p{
+    margin-left: 10px;
+}
+.col-2{
+    display: flex;
+}
+.dau{
+    margin-left: 50px;
+}
+.dau1{
+    margin-right: 50px;
+}

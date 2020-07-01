@@ -1,0 +1,37 @@
+li{
+    margin: 20px;
+}
+.thung-3{
+    
+    height: 400px;
+    background-color: gray;
+    color: white;
+}
+.cot{
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.container{
+    margin-top: 30px;
+    
+}
+.vuong{
+    display: flex;
+    border: black solid 1px;
+}
+.vuong1{
+    height: 200px;
+    width: 70%;
+
+}
+.vuong2{
+    height: 200px;
+    width: 30%;
+    background-color: gray;
+}
+
+    
+    
+
+    
+    

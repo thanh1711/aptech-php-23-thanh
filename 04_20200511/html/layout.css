@@ -1,0 +1,39 @@
+.first{
+    background-color: yellow;
+    display: flex;
+}.first-1{
+    background-color: blue;
+    height: 50px;
+    width: 25%;
+}
+.first-2{
+    background-color: red;
+    height: 50px;
+    width: 75%;
+}
+.second{
+    background-color:green ;
+    display: flex;
+}
+.second1{
+
+    background-color: blue;
+height: 250px;
+width: 50%;
+}
+.second2{
+    background-color: blueviolet;
+height: 250px;
+width: 50%;
+display: flex;
+
+}
+.second1-1{
+
+
+
+
+
+
+    
+}

@@ -1,0 +1,35 @@
+.mot{
+    
+    height: 100px;
+    background-color: black;
+  
+}
+.hai{
+    height: 100px;
+    background-color: blue;
+   
+}
+.ba{
+    height: 100px;
+    background-color: red;
+    width: 30%;
+}
+.bon{
+    height: 100px;
+    background-color: chocolate;
+    width: 70%;
+}
+.nam{
+    height: 100px;
+
+    background-color:gray;
+}
+
+
+.sau{
+    height: 100px;
+    
+    background-color: yellow;
+    
+}
+

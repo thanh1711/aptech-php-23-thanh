@@ -1,0 +1,108 @@
+.do{
+    font-size: 150%;
+    color: red;
+    border: 1px solid red;
+    
+    height: 50px;
+    border-radius: 5px;
+}.xanh{
+    font-size: 150%;
+    color: green;
+    border: 1px solid green;
+    height: 50px;
+    border-radius: 5px;
+}
+h1{
+    color: green;
+}
+ul>li{
+    list-style: none;
+    font-size: 150%;
+    color: gray;
+    display: flexs;
+    margin-left: 10px;
+}
+.mot{
+   display: flex;
+    color : gray;
+    margin-top: 60px;
+    
+}
+.hai{
+    color: gray;
+    margin-left: 80px;
+
+    
+}
+.ba{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.square1{
+    height: 300px;
+    border:1px solid gray;
+    border-radius: 10px;
+}
+.cung{
+    display: flex;
+}
+
+
+h3{
+    margin-right: 100px;
+    color:white;
+}   
+p{
+    color:white;
+}
+
+.square{
+    height: 50px;
+    width: 100%;
+    border-bottom : 1px solid gray;
+    display: flex;
+    
+}
+
+.nam{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.bon{
+    margin-top: 10px;
+}
+.vien{
+    background-color: green;
+    color: white;
+    border: 1px solid green;
+    border-radius: 3px;
+}
+.cung{
+    display: flex;
+    color: gray;
+}
+.sau>p{
+    
+    font-size: 150%;
+    color:black;
+}
+.square3{
+    height: 80px;
+    width: 100%;
+    border: 1px solid gray;
+    background-color: gray;
+}
+.square2{
+    height: 150px;
+    width: 100%;
+    border: 1px solid gray;
+    
+}
+.square3>p{
+    color: black;
+}
+.square4{
+    height: 400px;
+    width: 100%;
+    border: 1px solid gray;
+}

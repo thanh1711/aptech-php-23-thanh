@@ -1,0 +1,23 @@
+.Cha{
+    display: flex;
+}
+p{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.container-fluid{
+    
+    height: 100px;
+    border: gray solid 1px;
+}
+.vao{
+    height: 40px;
+    width: 60px;
+    
+    border-radius: 10%;
+    border: blue solid 1px;
+
+}
+h1{
+    margin-top: 100px;
+}

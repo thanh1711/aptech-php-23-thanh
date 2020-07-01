@@ -1,0 +1,23 @@
+
+.hoc{
+    background-color: blue;
+    border-radius: 5%;
+    color: white;
+}
+.thang-hang{
+    display: flex;
+    margin-top: 20px;
+   
+}
+.thung1{
+    background-color: black;
+    height: 70px;
+    
+
+}
+.hang{
+    border-radius: 20%;
+}
+.tim{
+    background-color: green;
+}

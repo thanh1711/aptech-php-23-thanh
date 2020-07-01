@@ -1,0 +1,13 @@
+.container{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border-radius: 20%;
+}
+.h-40{
+    height: 40% !important;
+}
+.h-60{
+    height: 60% !important;
+
+}

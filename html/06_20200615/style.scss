@@ -1,0 +1,13 @@
+.Content {
+    &__Sign-Up-Buttun {
+        &--green-theme {
+            background-color: green;
+        }
+        &--text-white {
+            color: white;
+        }
+        &--font-size {
+            font-size: 10px;
+        }
+    }
+}
